@@ -26,7 +26,7 @@ To update the tests:
 The tests are generated in [``src/test/java/com/testng/coffeemachine/ProjectTest.java``](https://github.com/hiptest/hps-java-testng/blob/master/src/test/java/com/testng/coffeemachine/ProjectTest.java)
 
 Run tests
----------
+-------------
 
 
 To build the project and run the tests, use the following command:
